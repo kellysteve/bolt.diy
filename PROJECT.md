@@ -1,7 +1,7 @@
 # Project management of bolt.diy
 
 First off: this sounds funny, we know. "Project management" comes from a world of enterprise stuff and this project is
-far from being enterprisy- it's still anarchy all over the place 😉
+far from being enterprisy- it's still anarchy all over the place 😀
 
 But we need to organize ourselves somehow, right?
 
